@@ -1,0 +1,15 @@
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/bin/Debug/net6.0/Proyecto1NET
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/bin/Debug/net6.0/Proyecto1NET.deps.json
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/bin/Debug/net6.0/Proyecto1NET.runtimeconfig.json
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/bin/Debug/net6.0/Proyecto1NET.dll
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/bin/Debug/net6.0/Proyecto1NET.pdb
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/obj/Debug/net6.0/Proyecto1NET.csproj.AssemblyReference.cache
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/obj/Debug/net6.0/Proyecto1NET.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/obj/Debug/net6.0/Proyecto1NET.AssemblyInfoInputs.cache
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/obj/Debug/net6.0/Proyecto1NET.AssemblyInfo.cs
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/obj/Debug/net6.0/Proyecto1NET.csproj.CoreCompileInputs.cache
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/obj/Debug/net6.0/Proyecto1NET.dll
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/obj/Debug/net6.0/refint/Proyecto1NET.dll
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/obj/Debug/net6.0/Proyecto1NET.pdb
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/obj/Debug/net6.0/Proyecto1NET.genruntimeconfig.cache
+/Users/ksusatama/Documents/AFGS/Proyecto1NET/Proyecto1NET/obj/Debug/net6.0/ref/Proyecto1NET.dll

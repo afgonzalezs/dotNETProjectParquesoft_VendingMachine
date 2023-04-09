@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{00B264C5-74CF-4AF5-994B-132A4FF04D7C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto1NET/View/View.cs">
+    <Files>
+      <File FileName="Proyecto1NET/View/View.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Proyecto1NET" expanded="True">
+            <Node name="Proyecto1NET" expanded="True">
+              <Node name="Controller" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="View.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Proyecto1NET FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
